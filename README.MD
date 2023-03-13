@@ -1,5 +1,4 @@
 <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate frontend App developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
