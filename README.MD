@@ -2,10 +2,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/kartikeypachori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeypachori" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartikey-pachori-50199024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-pachori-50199024a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikeypachori1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeypachori1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kartikeypachori1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikeypachori1610" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/kartikey-pachori-50199024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-pachori-50199024a" height="27" width="36" /></a>
+<a href="https://www.leetcode.com/kartikeypachori1610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikeypachori1610" height="27" width="36" /></a>
+<a href="https://twitter.com/kartikeypachori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeypachori" height="27" width="36" /></a>
+
 </p>
 
 <h2 align="left">🛠 Language and tools</h2>
