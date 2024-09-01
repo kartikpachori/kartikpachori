@@ -1,3 +1,4 @@
+![logo](https://github.com/kartikpachori/kartikpachori/blob/main/pick.png)
 <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
 <h2 align="left">Connect with me:</h2>
