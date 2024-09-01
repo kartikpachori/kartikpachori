@@ -1,4 +1,3 @@
-<div style="border: 2px solid #4caf50; padding: 20px; border-radius: 10px; background-color: #1a1a1a;">
 ![logo](https://github.com/kartikpachori/kartikpachori/blob/main/pick.png)
 <h1 align="center">Hey there!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 
@@ -44,7 +43,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kartikpachori&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kartikpachori&theme=gotham&hide_border=false&border_color=58a6ff&bg_color=0D1117&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kartikpachori&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpachori&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -53,4 +52,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kartikpachori&icon=9&color=10)](https://visitcount.itsvg.in)
-</div>
