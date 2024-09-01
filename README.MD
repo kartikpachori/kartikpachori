@@ -44,7 +44,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kartikpachori&theme=gotham&hide_border=false&border_color=58a6ff&bg_color=0D1117&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kartikpachori&theme=gotham&hide_border=false&border_color=58a6ff&bg_color=0D1117)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kartikpachori&theme=gotham&hide_border=false&border_color=58a6ff&bg_color=0D1117&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpachori&theme=gotham&hide_border=false&border_color=58a6ff&bg_color=0D1117&include_all_commits=true&count_private=true&layout=compact)
 
 
